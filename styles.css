@@ -1,0 +1,19 @@
+body{
+    background-color: #bea2d7;
+}
+
+h1{
+    text-align: center;
+    color: #0a2472;
+    font-size: 3rem;
+}
+
+h3{
+    color: rgb(210, 23, 23);
+}
+
+img{
+    margin-left: 600px;
+    width: 300px ;
+    height: auto;
+}
