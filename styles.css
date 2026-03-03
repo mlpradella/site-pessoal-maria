@@ -1,15 +1,22 @@
 body{
-    background-color: #bea2d7;
+    background-color: #f84848;
 }
 
 h1{
     text-align: center;
-    color: #0a2472;
+    color: #000000;
     font-size: 3rem;
+    font-family: "Bungee", sans-serif;
+}
+
+h2{
+    margin-top: 10px;
+    color: #000000;
+    text-align: center;
 }
 
 h3{
-    color: rgb(210, 23, 23);
+    color: rgb(0, 0, 0);
 }
 
 img{
@@ -17,3 +24,4 @@ img{
     width: 300px ;
     height: auto;
 }
+  
